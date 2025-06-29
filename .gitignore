@@ -1,0 +1,32 @@
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.o
+*.obj
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+# Build directories
+build/
+dist/
+out/
+bin/
+obj/
+# Log files
+*.log
+# Temporary files
+*.tmp
+*.temp
+*.cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
